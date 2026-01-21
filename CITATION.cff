@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+authors:
+  - family-names: "Pepin"
+    given-names: "Luke"
+    affiliation: "University of Rhode Island, Department of Mechanical, Industrial & Systems Engineering"
+    orcid: "https://orcid.org/0000-0000-0000-0000" # Optional: Add your ORCID if you have one
+title: "Resilient Decentralized Command & Control (C2) Framework"
+version: 0.1.0-alpha
+date-released: 2026-01-20
+url: "https://github.com/URI-ISE"
+keywords:
+  - "systems engineering"
+  - "cyber-physical systems"
+  - "resilient c2"
+  - "manet"
+  - "digital twin"
+  - "industrial cybersecurity"
+license: "MIT"
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Pepin"
+      given-names: "Luke"
+  title: "Resilient Decentralized Command & Control (C2) for Deployable Manufacturing Cells in High-Interference Environments"
+  year: 2026
+  institution:
+    name: "University of Rhode Island"
